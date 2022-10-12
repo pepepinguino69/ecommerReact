@@ -1,0 +1,149 @@
+@import url('https://cdn-uicons.flaticon.com/uicons-solid-straight/css/uicons-solid-straight.css');
+.shopping-cart{
+    font-size: 5.5rem;
+}
+.container{display: flex;width:100vw;justify-content: space-around;background-color: rgb(255, 0, 0);font-size:16px;align-items: center;height: 4rem;}
+.wrapper{display:flex;justify-content: flex-end;background-color: rgb(255, 0, 0);font-size:16px;font-family:fantasy}
+.welcome{font-size:2rem;font-family:fantasy;color:green;margin-left: 100px;}
+.login{flex-direction: column;}
+img{width:2.5rem
+}
+button{
+    border:1px red solid;
+    width:3rem;
+    background-color: red;}
+button:hover{
+    border:1px solid white;
+    cursor: pointer;
+}
+.yellow{background-color: yellow;}
+input{border-radius: .6rem ;}
+a{text-decoration: none;
+    color: white;font-size: 1.25rem;
+}
+a:hover{color: black}
+.inputFields{padding-bottom: 2rem;
+    display: flex;
+    justify-content: flex-end;
+}
+.buttonPanel{display: flex;
+   justify-content: space-around;
+   align-items: flex-start;
+   
+}
+   form{display: flex;
+justify-content: flex-start;
+flex-direction: column;
+}
+.custom-dialog {width:48% !important; top:1%;}
+.search{font-size:.8rem;width:4.2rem}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
